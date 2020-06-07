@@ -4,3 +4,6 @@ Chicken
 Beef 
 Normal Biriyani
 Arabian Mandi
+
+Malabar Biriyani
+
